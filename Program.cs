@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Amora_IT202WM_Lesson2Activity
+namespace Copada_IT202WM_Lesson2Activity
 {
     internal static class Program
     {
